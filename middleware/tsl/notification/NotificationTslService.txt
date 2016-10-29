@@ -1,2 +1,2 @@
-notification tsl auto
+notification tsl dm
 notification tsl auto extra
